@@ -14,9 +14,9 @@ Python has an internal packets/modules installer named pip so the required softw
 
 Packages:
 
-python3 <br/>
-python3-pip
-python3-pandas
+*python3 <br/>
+*python3-pip <br/>
+*python3-pandas  <br/>
 
 Modules for pip: (generally, first of all, you should upgrade pip)
 jupyter
