@@ -53,3 +53,9 @@ A good start with some basic concept like:
 * Reshaping Arrays
 * Sigmoid descent
 
+### 2- Logistic Regression using NN
+Here you will build your first cat reconizer Neural Network.
+* Dealing with image reshaping
+* Bulding parts of the learning algo
+* Forward and Backprop algo
+
