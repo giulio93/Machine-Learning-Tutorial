@@ -38,3 +38,11 @@ python3 -m pip install jupyter h5py scikit-image keras==2.0.7 tensorflow==1.2.1 
 OTHERS PLATFORM :)
 Equivalent steps should be done with other operating system according to their internal organization (library managament, installers, etc).
 
+### Get your hand dirty
+Once you have completed and follow the instruction above,go to the repo folder and load the first tutorial:
+```
+~/Machine-Learning-Tutorial/1 - B_Numpy$ jupyter notebook PythonNumpy.ipynb
+```
+
+
+
