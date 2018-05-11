@@ -19,12 +19,12 @@ Packages:
 * python3-pandas  <br/>
 
 Modules for pip: (generally, first of all, you should upgrade pip) <br/>
-jupyter <br/>
-h5py <br/>
-scikit-image <br/>
-keras (version 2.0.7) <br/>
-tensorflow (version 1.2.1) <br/>
-pydot <br/>
+* jupyter <br/>
+* h5py <br/>
+* scikit-image <br/>
+* keras (version 2.0.7) <br/>
+* tensorflow (version 1.2.1) <br/>
+* pydot <br/>
 
 EXAMPLE (LINUX ONLY) <br/>
 Linux users have an easy life (root shell or sudo commands):<br/>
