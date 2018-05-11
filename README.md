@@ -14,7 +14,7 @@ Python has an internal packets/modules installer named pip so the required softw
 
 Packages:
 
-python3
+python3 <br/>
 python3-pip
 python3-pandas
 
