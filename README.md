@@ -43,6 +43,19 @@ Once you have completed and follow the instruction above,go to the repo folder a
 ```
 ~/Machine-Learning-Tutorial/1 - B_Numpy$ jupyter notebook PythonNumpy.ipynb
 ```
+##Tutorials
 
+### 1- Basic Numpy
+A good start with some basic concept like:
+* computation of a sigmoid function
+* computation of a loss function
+* deal with different dimension and broadcasting
+* Reshaping Arrays
+* Sigmoid descent
 
+### 2- Logistic Regression using NN
+Here you will build your first cat reconizer Neural Network.
+* Dealing with image reshaping
+* Bulding parts of the learning algo
+* Forward and Backprop algo
 
