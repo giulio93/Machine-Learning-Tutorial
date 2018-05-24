@@ -69,3 +69,5 @@ You will bring up your one layer NN to a multi-layer NN
 * Backprop and compute the gradients
 * Learning the parameters
 
+### 4- Cat classifier Deep
+You will use your multi-layer NN to binary calssify cat's picture
