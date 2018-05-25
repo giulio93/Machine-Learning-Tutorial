@@ -59,3 +59,15 @@ Here you will build your first cat reconizer Neural Network.
 * Bulding parts of the learning algo
 * Forward and Backprop algo
 
+### 3- Deep_NN step_by_Step
+You will bring up your one layer NN to a multi-layer NN
+* Warm-up: managing and keeping track of dimensiona
+* Initialization of iper-parameters
+* Different activation function for different layers
+* Forwarding the activation
+* Loss function
+* Backprop and compute the gradients
+* Learning the parameters
+
+### 4- Cat classifier Deep
+You will use your multi-layer NN to binary calssify cat's picture
